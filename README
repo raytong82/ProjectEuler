@@ -1,5 +1,8 @@
-ProjectEuler coding practice on GitHub
+ProjectEuler
+============
 
-Jenkins: https://raytong82.ci.cloudbees.com/job/ProjectEuler%20on%20GitHub/
+[![Build Status](https://travis-ci.org/raytong82/ProjectEuler.svg?branch=master)](https://travis-ci.org/raytong82/ProjectEuler)
+
+ProjectEuler coding practice on GitHub
 
 Cloud9: https://c9.io/raytong82/project_euler
